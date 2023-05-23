@@ -12,9 +12,9 @@
 @import url('https://raw.githubusercontent.com/Tdvds/new-theme/main/new.theme.css');
 
 :root {
-  --simple-theme-bg: url(https://imgur.com/U7y2Gat);
-  --simple-theme-home-icon: url(https://imgur.com/usarxNk);
-  --simple-theme-color1: #9c9c9c;
+  --simple-theme-bg: url(https://i.imgur.com/U7y2Gat.png);
+  --simple-theme-home-icon: url(https://i.imgur.com/usarxNk.png);
+  --simple-theme-color1: #6b106e;
   --simple-theme-color2: #9c9c9c;
   --simple-theme-color3: #6b106e;
   --simple-theme-color4: #ffffff;
@@ -30,4 +30,4 @@
 }
 
 
-
+/* 6b286d  */
