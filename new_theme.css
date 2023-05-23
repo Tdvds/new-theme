@@ -1,0 +1,33 @@
+/**
+  *	@name Shadowing
+  *	@author cumzone#5911
+  *	@version 1.0
+  *	
+*/
+
+/*
+
+*/
+
+@import url('https://raw.githubusercontent.com/tylerboy0604/eminence-of-shadow-theme-discord/main/eminence.theme.css');
+
+:root {
+  --eminence-bg: url(https://i.imgur.com/FTxa6Pe.png);
+  --eminence-home-icon: url(https://i.imgur.com/O1PZTL7.gif);
+  --eminence-color1: #6b106e;
+  --eminence-color2: #9c9c9c;
+  --eminence-color3: #6b106e;
+  --eminence-color4: #ffffff;
+  --eminence-color5: #6b286d;
+  --eminence-color6: #99129d;
+  --watermark-filter-invert: 0%;
+  --watermark-filter-sepia: 50%;
+  --watermark-filter-saturate: 3000%;
+  --watermark-filter-hue-rotate: 150deg;
+  --watermark-filter-brightness: 100%;
+  --watermark-filter-contrast: 200%;
+  --eminence-emoji-picker-color: 150deg;
+}
+
+
+/* 6b286d  */
